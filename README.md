@@ -1,4 +1,4 @@
-/# Curso TMW Git \& git 2025
+# Curso TMW Git \& git 2025
 
 
 
@@ -8,7 +8,7 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
-##Fluxo de trabalho Git local
+## Fluxo de trabalho Git local
 1. git checkout -b <nova-branch>
 2. cria ou atualiza arquivos
 3. git status
